@@ -1,5 +1,5 @@
 # Price Drop Notifier
-This project tracks the price of Grand Theft Auto V on Steam. It sends an email notification when the price drops below a specified threshold. This is useful for gamers looking to buy the game at a discounted price.
+This project tracks the price of Grand Theft Auto V on Steam and sends an email when the price drops below a specified threshold. This is useful for gamers looking to buy the game at a discounted price.
 
 ## Getting Started
 ### Prerequisites
