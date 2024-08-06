@@ -38,6 +38,7 @@ EMAIL_ADDRESS_TO=recipient_email@gmail.com
 ```bash
 python main.py
 ```
-## Screenshots 
+## Screenshots
+![image](https://github.com/user-attachments/assets/962d3de4-947a-43da-ba16-dce62d03b42c)
 
 
