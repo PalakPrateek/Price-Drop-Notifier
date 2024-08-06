@@ -38,6 +38,6 @@ EMAIL_ADDRESS_TO=recipient_email@gmail.com
 ```bash
 python main.py
 ```
-## Screenshots
+## Screenshots 
 
 
