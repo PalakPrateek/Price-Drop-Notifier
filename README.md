@@ -12,7 +12,7 @@ This project is a price monitoring script that tracks the price of Grand Theft A
 1. Clone the repository.
 
 ```bash
-https://github.com/PalakPrateek/Price-Drop-Notifier.git
+git clone https://github.com/PalakPrateek/Price-Drop-Notifier.git
 cd Price-Drop-Notifier
 ```
 2. Install required packages.
@@ -40,4 +40,4 @@ python main.py
 ```
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/b848a4a9-2440-41c7-8be1-884be02f360a)
+
