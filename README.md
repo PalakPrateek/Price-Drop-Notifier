@@ -25,7 +25,7 @@ pip install python-dotenv
 
 3. Edit the TARGET_PRICE variable in main.py to set your desired price threshold for notifications.
 
- 4.Set up environment variables.
+4. Set up environment variables.
 
 ```
 EMAIL_ADDRESS_FROM=your_email@gmail.com
