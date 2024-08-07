@@ -28,9 +28,9 @@ pip install python-dotenv
 4. Set up environment variables.
 
 ```
-EMAIL_ADDRESS_FROM=your_email@gmail.com
-EMAIL_PASSWORD=your_password
-EMAIL_ADDRESS_TO=recipient_email@gmail.com
+EMAIL_ADDRESS_FROM = your_email@gmail.com
+EMAIL_PASSWORD = your_password
+EMAIL_ADDRESS_TO = recipient_email@gmail.com
 ```
 5. Run the script.
 
