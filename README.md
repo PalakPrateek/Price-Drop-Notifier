@@ -7,7 +7,7 @@ This project tracks the price of Grand Theft Auto V on Steam and sends an email 
 * An email account (Gmail recommended for simplicity)
 * Python packages: requests, beautifulsoup4, python-dotenv
 
-### Installation
+### Setup
 
 1. Clone the repository.
 
@@ -22,18 +22,17 @@ pip install requests
 pip install beautifulsoup4
 pip install python-dotenv
 ```
-## Usage
 
-1. Edit the TARGET_PRICE variable in main.py to set your desired price threshold for notifications.
+3. Edit the TARGET_PRICE variable in main.py to set your desired price threshold for notifications.
 
-2. Set up environment variables.
+ 4.Set up environment variables.
 
 ```
 EMAIL_ADDRESS_FROM=your_email@gmail.com
 EMAIL_PASSWORD=your_password
 EMAIL_ADDRESS_TO=recipient_email@gmail.com
 ```
-3. Run the script.
+5. Run the script.
 
 ```bash
 python main.py
